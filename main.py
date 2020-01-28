@@ -9,7 +9,7 @@ import cv2
 import telebot
 
 
-token = '949972967:AAGuKN-d2c2QWHMfSGXDN0_xNr-ZmCne0-g'
+token = 'token'
 
 
 bot = telebot.TeleBot(token, threaded=False) # убираем многопоточность чтоб не падал
